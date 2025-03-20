@@ -12,7 +12,7 @@ class CompanyStatisticController extends Controller
      */
     public function index()
     {
-        //
+        return 'test admin';
     }
 
     /**
